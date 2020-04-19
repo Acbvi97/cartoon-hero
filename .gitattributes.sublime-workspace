@@ -3,10 +3,24 @@
 	{
 		"selected_items":
 		[
+			[
+				"p",
+				"p\tTag"
+			]
 		]
 	},
 	"buffers":
 	[
+		{
+			"file": "test.html",
+			"settings":
+			{
+				"buffer_size": 458,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "<h1> Hey. I'm a big heading</h1>"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -74,8 +88,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "test.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								279,
+								279
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<h1> Hey. I'm a big heading</h1>",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
